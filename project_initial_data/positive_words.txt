@@ -1,5 +1,5 @@
-announce; today
-reported; today
+announce
+reported
 received
 agreed
 established
